@@ -1,0 +1,10 @@
+{
+  "users": {
+    "admin": {
+      "password_hash": "pbkdf2_sha256$200000$yV/gYcf2K/sC6GWSXrU21Q==$U6GtbFiiI6Oz/dih/ffR7GInIRdv3ArdcpPHg1Ucpts=",
+      "role": "admin",
+      "active": true,
+      "created_at": "2026-01-04T13:24:14.931116Z"
+    }
+  }
+}
